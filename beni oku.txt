@@ -1,7 +1,0 @@
-katates.crx dosyasýný
-
-chrome://extensions/ sayfasýna sürükleyerek kurun.
-Eklenti inaktif olacak Chrome dýþarýdan eklentiye izin vermediði için 
-kurulum.html dosyasýndaki yönergeleri uygulamanýz gerek.
-
-Uyguladýktan sonra eklentiyi aktif edip kullanmaya baþlayabilirsiniz.
